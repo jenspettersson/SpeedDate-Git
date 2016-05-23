@@ -1,4 +1,7 @@
 Added a local feature to develop
 A new line on local
+<<<<<<< HEAD
 New line from github
+=======
 Anothjer line
+>>>>>>> Added text
